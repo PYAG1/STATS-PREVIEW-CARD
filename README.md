@@ -27,6 +27,11 @@ Users should be able to:
 
 -View the layout for this challenge in a 375px and 1440px device screen size.
 
+### Screenshot
+
+![](./screenshot.jpg)
+
+![images\statsdesktop.png]
 
 ### Links
 
