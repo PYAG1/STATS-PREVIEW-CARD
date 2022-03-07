@@ -20,7 +20,7 @@ main{
 }
 #first-section{
     background-color: hsl(277, 64%, 61%);
-    background-image: url("C:/Users/PYAG/Desktop/stats-preview-card-component-main/images/image-header-mobile.jpg");
+    background-image: url("images/image-header-mobile.jpg");
     background-blend-mode:multiply;
     background-size: cover;
     width:100%;
@@ -97,7 +97,7 @@ h1{
      
     }
     #first-section{
-        background-image: url("C:/Users/PYAG/Desktop/stats-preview-card-component-main/images/image-header-desktop.jpg");
+        background-image: url("images/image-header-desktop.jpg");
         background-blend-mode:multiply;
         background-size: cover;
         width:35em;
