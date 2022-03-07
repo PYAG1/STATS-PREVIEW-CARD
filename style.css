@@ -57,6 +57,7 @@ main{
 h1{
     font-size:1.5em;
    color: hsl(0, 0%, 100%);
+   font-weight: 700;
     
    
 }
@@ -114,7 +115,7 @@ h1{
         text-align:justify;
         padding:0.2em;
         margin-right:1em;
-        font-weight: 700;
+
     }
 .mainp{
     font-size:.99em;
